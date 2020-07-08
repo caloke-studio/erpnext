@@ -1037,6 +1037,13 @@
 		}
 	},
 
+	"Puerto Rico": {
+		"Puerto Rico Tax": {
+			"account_name": "IVU",
+			"tax_rate": 12.00
+		}
+	},
+
 	"Republic Of The Congo": {
 		"Congo Tax": {
 			"account_name": "VAT",
